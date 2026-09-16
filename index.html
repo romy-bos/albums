@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Queen Albums – albums</title>
+<title>Album Similarity – albums</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -159,7 +159,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Queen Albums</h1>
+<h1 class="title">Album Similarity</h1>
 </div>
 
 
@@ -177,28 +177,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code hidden" id="cb1" data-startfrom="9" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 8;"><span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>viewof album <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">select</span>(</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">new</span> <span class="bu">Map</span>([</span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Queen (1973)"</span><span class="op">,</span> <span class="st">"data/1973_queen.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Queen II (1974)"</span><span class="op">,</span> <span class="st">"data/1974_queen_ii.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Sheer Heart Attack (1974)"</span><span class="op">,</span> <span class="st">"data/1974_sheer_heart_attack.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"A Night at the Opera (1975)"</span><span class="op">,</span> <span class="st">"data/1975_a_night_at_the_opera.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"A Day at the Races (1976)"</span><span class="op">,</span> <span class="st">"data/1976_a_day_at_the_races.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"News of the World (1977)"</span><span class="op">,</span> <span class="st">"data/1977_news_of_the_world.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Jazz (1978)"</span><span class="op">,</span> <span class="st">"data/1978_jazz.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"The Game (1980)"</span><span class="op">,</span> <span class="st">"data/1980_the_game.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Flash Gordon (1980)"</span><span class="op">,</span> <span class="st">"data/1980_flash_gordon.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Hot Space (1982)"</span><span class="op">,</span> <span class="st">"data/1982_hot_space.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"The Works (1984)"</span><span class="op">,</span> <span class="st">"data/1984_the_works.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"A Kind of Magic (1986)"</span><span class="op">,</span> <span class="st">"data/1986_a_kind_of_magic.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"The Miracle (1989)"</span><span class="op">,</span> <span class="st">"data/1989_the_miracle.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Innuendo (1991)"</span><span class="op">,</span> <span class="st">"data/1991_innuendo.jpg"</span>]<span class="op">,</span></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Made in Heaven (1995)"</span><span class="op">,</span> <span class="st">"data/1995_made_in_heaven.jpg"</span>]</span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>  ])<span class="op">,</span></span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>  { <span class="dt">label</span><span class="op">:</span> <span class="st">"Select an album:"</span> }</span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="fu">html</span><span class="vs">`&lt;img src="</span><span class="sc">${</span>album<span class="sc">}</span><span class="vs">" style="max-width: 500px; width: 100%; border-radius: 8px;" /&gt;`</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code hidden" id="cb1" data-startfrom="9" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 8;"><span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>albums <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"data/similarities.json"</span>)<span class="op">.</span><span class="fu">json</span>()</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>viewof album <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">select</span>(albums<span class="op">,</span> {</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>  <span class="dt">label</span><span class="op">:</span> <span class="st">"Pick an album:"</span><span class="op">,</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>  <span class="dt">format</span><span class="op">:</span> d <span class="kw">=&gt;</span> d<span class="op">.</span><span class="at">label</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>})</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output cell-output-display">
 <div>
 <div id="ojs-cell-1-1" data-nodetype="declaration">
@@ -208,9 +192,44 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 <div class="cell-output cell-output-display">
 <div>
-<div id="ojs-cell-1-2" data-nodetype="expression">
+<div id="ojs-cell-1-2" data-nodetype="declaration">
 
 </div>
+</div>
+</div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code hidden" id="cb2" data-startfrom="18" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 17;"><span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a><span class="fu">html</span><span class="vs">`</span></span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;div style="display: flex; flex-direction: column; align-items: center; gap: 1.5rem; margin-top: 1rem;"&gt;</span></span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;!-- Chosen Album --&gt;</span></span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;div style="text-align: center;"&gt;</span></span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;h3 style="margin-bottom: 0.5rem;"&gt;</span><span class="sc">${</span>album<span class="op">.</span><span class="at">label</span><span class="sc">}</span><span class="vs">&lt;/h3&gt;</span></span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;img src="</span><span class="sc">${</span>album<span class="op">.</span><span class="at">file</span><span class="sc">}</span><span class="vs">" alt="</span><span class="sc">${</span>album<span class="op">.</span><span class="at">label</span><span class="sc">}</span><span class="vs">" style="max-width: 320px; width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /&gt;</span></span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;/div&gt;</span></span>
+<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;!-- Side-by-side: Most Similar &amp; Most Different --&gt;</span></span>
+<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;div style="display: flex; gap: 2rem; justify-content: center; width: 100%; max-width: 750px; flex-wrap: wrap;"&gt;</span></span>
+<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;!-- Most Similar --&gt;</span></span>
+<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;div style="flex: 1; min-width: 250px; text-align: center; padding: 1rem; border: 1px solid #e0e0e0; border-radius: 8px; background: #fafafa;"&gt;</span></span>
+<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;h4 style="color: #2e7d32; margin-top: 0;"&gt;Most Similar&lt;/h4&gt;</span></span>
+<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;p style="margin-bottom: 0.5rem; font-weight: 500;"&gt;</span><span class="sc">${</span>album<span class="op">.</span><span class="at">similar_name</span><span class="sc">}</span><span class="vs">&lt;/p&gt;</span></span>
+<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;p style="font-size: 0.9rem; color: #555; margin-bottom: 0.75rem;"&gt;Similarity: </span><span class="sc">${</span>(album<span class="op">.</span><span class="at">similar_score</span> <span class="op">*</span> <span class="dv">100</span>)<span class="op">.</span><span class="fu">toFixed</span>(<span class="dv">1</span>)<span class="sc">}</span><span class="vs">%&lt;/p&gt;</span></span>
+<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;img src="</span><span class="sc">${</span>album<span class="op">.</span><span class="at">similar_file</span><span class="sc">}</span><span class="vs">" alt="</span><span class="sc">${</span>album<span class="op">.</span><span class="at">similar_name</span><span class="sc">}</span><span class="vs">" style="max-width: 240px; width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" /&gt;</span></span>
+<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;/div&gt;</span></span>
+<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;!-- Most Different --&gt;</span></span>
+<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;div style="flex: 1; min-width: 250px; text-align: center; padding: 1rem; border: 1px solid #e0e0e0; border-radius: 8px; background: #fafafa;"&gt;</span></span>
+<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;h4 style="color: #c62828; margin-top: 0;"&gt;Most Different&lt;/h4&gt;</span></span>
+<span id="cb2-39"><a href="#cb2-39" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;p style="margin-bottom: 0.5rem; font-weight: 500;"&gt;</span><span class="sc">${</span>album<span class="op">.</span><span class="at">different_name</span><span class="sc">}</span><span class="vs">&lt;/p&gt;</span></span>
+<span id="cb2-40"><a href="#cb2-40" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;p style="font-size: 0.9rem; color: #555; margin-bottom: 0.75rem;"&gt;Similarity: </span><span class="sc">${</span>(album<span class="op">.</span><span class="at">different_score</span> <span class="op">*</span> <span class="dv">100</span>)<span class="op">.</span><span class="fu">toFixed</span>(<span class="dv">1</span>)<span class="sc">}</span><span class="vs">%&lt;/p&gt;</span></span>
+<span id="cb2-41"><a href="#cb2-41" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;img src="</span><span class="sc">${</span>album<span class="op">.</span><span class="at">different_file</span><span class="sc">}</span><span class="vs">" alt="</span><span class="sc">${</span>album<span class="op">.</span><span class="at">different_name</span><span class="sc">}</span><span class="vs">" style="max-width: 240px; width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" /&gt;</span></span>
+<span id="cb2-42"><a href="#cb2-42" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;/div&gt;</span></span>
+<span id="cb2-43"><a href="#cb2-43" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;/div&gt;</span></span>
+<span id="cb2-44"><a href="#cb2-44" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/div&gt;</span></span>
+<span id="cb2-45"><a href="#cb2-45" aria-hidden="true" tabindex="-1"></a><span class="vs">`</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-display">
+<div id="ojs-cell-2" data-nodetype="expression">
+
 </div>
 </div>
 </div>
@@ -219,7 +238,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </main> <!-- /main -->
 <script type="ojs-module-contents">
-eyJjb250ZW50cyI6W3sibWV0aG9kTmFtZSI6ImludGVycHJldCIsImNlbGxOYW1lIjoib2pzLWNlbGwtMSIsImlubGluZSI6ZmFsc2UsInNvdXJjZSI6InZpZXdvZiBhbGJ1bSA9IElucHV0cy5zZWxlY3QoXG4gIG5ldyBNYXAoW1xuICAgIFtcIlF1ZWVuICgxOTczKVwiLCBcImRhdGEvMTk3M19xdWVlbi5qcGdcIl0sXG4gICAgW1wiUXVlZW4gSUkgKDE5NzQpXCIsIFwiZGF0YS8xOTc0X3F1ZWVuX2lpLmpwZ1wiXSxcbiAgICBbXCJTaGVlciBIZWFydCBBdHRhY2sgKDE5NzQpXCIsIFwiZGF0YS8xOTc0X3NoZWVyX2hlYXJ0X2F0dGFjay5qcGdcIl0sXG4gICAgW1wiQSBOaWdodCBhdCB0aGUgT3BlcmEgKDE5NzUpXCIsIFwiZGF0YS8xOTc1X2FfbmlnaHRfYXRfdGhlX29wZXJhLmpwZ1wiXSxcbiAgICBbXCJBIERheSBhdCB0aGUgUmFjZXMgKDE5NzYpXCIsIFwiZGF0YS8xOTc2X2FfZGF5X2F0X3RoZV9yYWNlcy5qcGdcIl0sXG4gICAgW1wiTmV3cyBvZiB0aGUgV29ybGQgKDE5NzcpXCIsIFwiZGF0YS8xOTc3X25ld3Nfb2ZfdGhlX3dvcmxkLmpwZ1wiXSxcbiAgICBbXCJKYXp6ICgxOTc4KVwiLCBcImRhdGEvMTk3OF9qYXp6LmpwZ1wiXSxcbiAgICBbXCJUaGUgR2FtZSAoMTk4MClcIiwgXCJkYXRhLzE5ODBfdGhlX2dhbWUuanBnXCJdLFxuICAgIFtcIkZsYXNoIEdvcmRvbiAoMTk4MClcIiwgXCJkYXRhLzE5ODBfZmxhc2hfZ29yZG9uLmpwZ1wiXSxcbiAgICBbXCJIb3QgU3BhY2UgKDE5ODIpXCIsIFwiZGF0YS8xOTgyX2hvdF9zcGFjZS5qcGdcIl0sXG4gICAgW1wiVGhlIFdvcmtzICgxOTg0KVwiLCBcImRhdGEvMTk4NF90aGVfd29ya3MuanBnXCJdLFxuICAgIFtcIkEgS2luZCBvZiBNYWdpYyAoMTk4NilcIiwgXCJkYXRhLzE5ODZfYV9raW5kX29mX21hZ2ljLmpwZ1wiXSxcbiAgICBbXCJUaGUgTWlyYWNsZSAoMTk4OSlcIiwgXCJkYXRhLzE5ODlfdGhlX21pcmFjbGUuanBnXCJdLFxuICAgIFtcIklubnVlbmRvICgxOTkxKVwiLCBcImRhdGEvMTk5MV9pbm51ZW5kby5qcGdcIl0sXG4gICAgW1wiTWFkZSBpbiBIZWF2ZW4gKDE5OTUpXCIsIFwiZGF0YS8xOTk1X21hZGVfaW5faGVhdmVuLmpwZ1wiXVxuICBdKSxcbiAgeyBsYWJlbDogXCJTZWxlY3QgYW4gYWxidW06XCIgfVxuKVxuXG5odG1sYDxpbWcgc3JjPVwiJHthbGJ1bX1cIiBzdHlsZT1cIm1heC13aWR0aDogNTAwcHg7IHdpZHRoOiAxMDAlOyBib3JkZXItcmFkaXVzOiA4cHg7XCIgLz5gXG4ifSx7Im1ldGhvZE5hbWUiOiJpbnRlcnByZXRRdWlldCIsInNvdXJjZSI6InNoaW55SW5wdXQoJ2FsYnVtJykifV19
+eyJjb250ZW50cyI6W3sibWV0aG9kTmFtZSI6ImludGVycHJldCIsImNlbGxOYW1lIjoib2pzLWNlbGwtMSIsImlubGluZSI6ZmFsc2UsInNvdXJjZSI6ImFsYnVtcyA9IEZpbGVBdHRhY2htZW50KFwiZGF0YS9zaW1pbGFyaXRpZXMuanNvblwiKS5qc29uKClcblxudmlld29mIGFsYnVtID0gSW5wdXRzLnNlbGVjdChhbGJ1bXMsIHtcbiAgbGFiZWw6IFwiUGljayBhbiBhbGJ1bTpcIixcbiAgZm9ybWF0OiBkID0+IGQubGFiZWxcbn0pXG4ifSx7Im1ldGhvZE5hbWUiOiJpbnRlcnByZXQiLCJjZWxsTmFtZSI6Im9qcy1jZWxsLTIiLCJpbmxpbmUiOmZhbHNlLCJzb3VyY2UiOiJodG1sYFxuPGRpdiBzdHlsZT1cImRpc3BsYXk6IGZsZXg7IGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47IGFsaWduLWl0ZW1zOiBjZW50ZXI7IGdhcDogMS41cmVtOyBtYXJnaW4tdG9wOiAxcmVtO1wiPlxuICA8IS0tIENob3NlbiBBbGJ1bSAtLT5cbiAgPGRpdiBzdHlsZT1cInRleHQtYWxpZ246IGNlbnRlcjtcIj5cbiAgICA8aDMgc3R5bGU9XCJtYXJnaW4tYm90dG9tOiAwLjVyZW07XCI+JHthbGJ1bS5sYWJlbH08L2gzPlxuICAgIDxpbWcgc3JjPVwiJHthbGJ1bS5maWxlfVwiIGFsdD1cIiR7YWxidW0ubGFiZWx9XCIgc3R5bGU9XCJtYXgtd2lkdGg6IDMyMHB4OyB3aWR0aDogMTAwJTsgYm9yZGVyLXJhZGl1czogOHB4OyBib3gtc2hhZG93OiAwIDRweCAxMnB4IHJnYmEoMCwwLDAsMC4xNSk7XCIgLz5cbiAgPC9kaXY+XG5cbiAgPCEtLSBTaWRlLWJ5LXNpZGU6IE1vc3QgU2ltaWxhciAmIE1vc3QgRGlmZmVyZW50IC0tPlxuICA8ZGl2IHN0eWxlPVwiZGlzcGxheTogZmxleDsgZ2FwOiAycmVtOyBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsgd2lkdGg6IDEwMCU7IG1heC13aWR0aDogNzUwcHg7IGZsZXgtd3JhcDogd3JhcDtcIj5cbiAgICA8IS0tIE1vc3QgU2ltaWxhciAtLT5cbiAgICA8ZGl2IHN0eWxlPVwiZmxleDogMTsgbWluLXdpZHRoOiAyNTBweDsgdGV4dC1hbGlnbjogY2VudGVyOyBwYWRkaW5nOiAxcmVtOyBib3JkZXI6IDFweCBzb2xpZCAjZTBlMGUwOyBib3JkZXItcmFkaXVzOiA4cHg7IGJhY2tncm91bmQ6ICNmYWZhZmE7XCI+XG4gICAgICA8aDQgc3R5bGU9XCJjb2xvcjogIzJlN2QzMjsgbWFyZ2luLXRvcDogMDtcIj5Nb3N0IFNpbWlsYXI8L2g0PlxuICAgICAgPHAgc3R5bGU9XCJtYXJnaW4tYm90dG9tOiAwLjVyZW07IGZvbnQtd2VpZ2h0OiA1MDA7XCI+JHthbGJ1bS5zaW1pbGFyX25hbWV9PC9wPlxuICAgICAgPHAgc3R5bGU9XCJmb250LXNpemU6IDAuOXJlbTsgY29sb3I6ICM1NTU7IG1hcmdpbi1ib3R0b206IDAuNzVyZW07XCI+U2ltaWxhcml0eTogJHsoYWxidW0uc2ltaWxhcl9zY29yZSAqIDEwMCkudG9GaXhlZCgxKX0lPC9wPlxuICAgICAgPGltZyBzcmM9XCIke2FsYnVtLnNpbWlsYXJfZmlsZX1cIiBhbHQ9XCIke2FsYnVtLnNpbWlsYXJfbmFtZX1cIiBzdHlsZT1cIm1heC13aWR0aDogMjQwcHg7IHdpZHRoOiAxMDAlOyBib3JkZXItcmFkaXVzOiA2cHg7IGJveC1zaGFkb3c6IDAgMnB4IDhweCByZ2JhKDAsMCwwLDAuMSk7XCIgLz5cbiAgICA8L2Rpdj5cblxuICAgIDwhLS0gTW9zdCBEaWZmZXJlbnQgLS0+XG4gICAgPGRpdiBzdHlsZT1cImZsZXg6IDE7IG1pbi13aWR0aDogMjUwcHg7IHRleHQtYWxpZ246IGNlbnRlcjsgcGFkZGluZzogMXJlbTsgYm9yZGVyOiAxcHggc29saWQgI2UwZTBlMDsgYm9yZGVyLXJhZGl1czogOHB4OyBiYWNrZ3JvdW5kOiAjZmFmYWZhO1wiPlxuICAgICAgPGg0IHN0eWxlPVwiY29sb3I6ICNjNjI4Mjg7IG1hcmdpbi10b3A6IDA7XCI+TW9zdCBEaWZmZXJlbnQ8L2g0PlxuICAgICAgPHAgc3R5bGU9XCJtYXJnaW4tYm90dG9tOiAwLjVyZW07IGZvbnQtd2VpZ2h0OiA1MDA7XCI+JHthbGJ1bS5kaWZmZXJlbnRfbmFtZX08L3A+XG4gICAgICA8cCBzdHlsZT1cImZvbnQtc2l6ZTogMC45cmVtOyBjb2xvcjogIzU1NTsgbWFyZ2luLWJvdHRvbTogMC43NXJlbTtcIj5TaW1pbGFyaXR5OiAkeyhhbGJ1bS5kaWZmZXJlbnRfc2NvcmUgKiAxMDApLnRvRml4ZWQoMSl9JTwvcD5cbiAgICAgIDxpbWcgc3JjPVwiJHthbGJ1bS5kaWZmZXJlbnRfZmlsZX1cIiBhbHQ9XCIke2FsYnVtLmRpZmZlcmVudF9uYW1lfVwiIHN0eWxlPVwibWF4LXdpZHRoOiAyNDBweDsgd2lkdGg6IDEwMCU7IGJvcmRlci1yYWRpdXM6IDZweDsgYm94LXNoYWRvdzogMCAycHggOHB4IHJnYmEoMCwwLDAsMC4xKTtcIiAvPlxuICAgIDwvZGl2PlxuICA8L2Rpdj5cbjwvZGl2PlxuYFxuIn0seyJtZXRob2ROYW1lIjoiaW50ZXJwcmV0UXVpZXQiLCJzb3VyY2UiOiJzaGlueUlucHV0KCdhbGJ1bScpIn1dfQ==
 </script>
 <script type="module">
 if (window.location.protocol === "file:") { alert("The OJS runtime does not work with file:// URLs. Please use a web server to view this document."); }
