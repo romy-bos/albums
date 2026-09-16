@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>albums</title>
+<title>Queen Albums – albums</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -25,6 +25,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -73,6 +108,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script type="module" src="site_libs/quarto-ojs/quarto-ojs-runtime.js"></script>
+<link href="site_libs/quarto-ojs/quarto-ojs.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -122,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">albums</h1>
+<h1 class="title">Queen Albums</h1>
 </div>
 
 
@@ -139,12 +176,59 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This is a Quarto website.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code hidden" id="cb1" data-startfrom="9" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 8;"><span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>viewof album <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">select</span>(</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">new</span> <span class="bu">Map</span>([</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Queen (1973)"</span><span class="op">,</span> <span class="st">"data/1973_queen.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Queen II (1974)"</span><span class="op">,</span> <span class="st">"data/1974_queen_ii.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Sheer Heart Attack (1974)"</span><span class="op">,</span> <span class="st">"data/1974_sheer_heart_attack.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"A Night at the Opera (1975)"</span><span class="op">,</span> <span class="st">"data/1975_a_night_at_the_opera.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"A Day at the Races (1976)"</span><span class="op">,</span> <span class="st">"data/1976_a_day_at_the_races.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"News of the World (1977)"</span><span class="op">,</span> <span class="st">"data/1977_news_of_the_world.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Jazz (1978)"</span><span class="op">,</span> <span class="st">"data/1978_jazz.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"The Game (1980)"</span><span class="op">,</span> <span class="st">"data/1980_the_game.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Flash Gordon (1980)"</span><span class="op">,</span> <span class="st">"data/1980_flash_gordon.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Hot Space (1982)"</span><span class="op">,</span> <span class="st">"data/1982_hot_space.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"The Works (1984)"</span><span class="op">,</span> <span class="st">"data/1984_the_works.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"A Kind of Magic (1986)"</span><span class="op">,</span> <span class="st">"data/1986_a_kind_of_magic.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"The Miracle (1989)"</span><span class="op">,</span> <span class="st">"data/1989_the_miracle.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Innuendo (1991)"</span><span class="op">,</span> <span class="st">"data/1991_innuendo.jpg"</span>]<span class="op">,</span></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"Made in Heaven (1995)"</span><span class="op">,</span> <span class="st">"data/1995_made_in_heaven.jpg"</span>]</span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>  ])<span class="op">,</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>  { <span class="dt">label</span><span class="op">:</span> <span class="st">"Select an album:"</span> }</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="fu">html</span><span class="vs">`&lt;img src="</span><span class="sc">${</span>album<span class="sc">}</span><span class="vs">" style="max-width: 500px; width: 100%; border-radius: 8px;" /&gt;`</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-1-1" data-nodetype="declaration">
+
+</div>
+</div>
+</div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-1-2" data-nodetype="expression">
+
+</div>
+</div>
+</div>
+</div>
 
 
 
 </main> <!-- /main -->
+<script type="ojs-module-contents">
+eyJjb250ZW50cyI6W3sibWV0aG9kTmFtZSI6ImludGVycHJldCIsImNlbGxOYW1lIjoib2pzLWNlbGwtMSIsImlubGluZSI6ZmFsc2UsInNvdXJjZSI6InZpZXdvZiBhbGJ1bSA9IElucHV0cy5zZWxlY3QoXG4gIG5ldyBNYXAoW1xuICAgIFtcIlF1ZWVuICgxOTczKVwiLCBcImRhdGEvMTk3M19xdWVlbi5qcGdcIl0sXG4gICAgW1wiUXVlZW4gSUkgKDE5NzQpXCIsIFwiZGF0YS8xOTc0X3F1ZWVuX2lpLmpwZ1wiXSxcbiAgICBbXCJTaGVlciBIZWFydCBBdHRhY2sgKDE5NzQpXCIsIFwiZGF0YS8xOTc0X3NoZWVyX2hlYXJ0X2F0dGFjay5qcGdcIl0sXG4gICAgW1wiQSBOaWdodCBhdCB0aGUgT3BlcmEgKDE5NzUpXCIsIFwiZGF0YS8xOTc1X2FfbmlnaHRfYXRfdGhlX29wZXJhLmpwZ1wiXSxcbiAgICBbXCJBIERheSBhdCB0aGUgUmFjZXMgKDE5NzYpXCIsIFwiZGF0YS8xOTc2X2FfZGF5X2F0X3RoZV9yYWNlcy5qcGdcIl0sXG4gICAgW1wiTmV3cyBvZiB0aGUgV29ybGQgKDE5NzcpXCIsIFwiZGF0YS8xOTc3X25ld3Nfb2ZfdGhlX3dvcmxkLmpwZ1wiXSxcbiAgICBbXCJKYXp6ICgxOTc4KVwiLCBcImRhdGEvMTk3OF9qYXp6LmpwZ1wiXSxcbiAgICBbXCJUaGUgR2FtZSAoMTk4MClcIiwgXCJkYXRhLzE5ODBfdGhlX2dhbWUuanBnXCJdLFxuICAgIFtcIkZsYXNoIEdvcmRvbiAoMTk4MClcIiwgXCJkYXRhLzE5ODBfZmxhc2hfZ29yZG9uLmpwZ1wiXSxcbiAgICBbXCJIb3QgU3BhY2UgKDE5ODIpXCIsIFwiZGF0YS8xOTgyX2hvdF9zcGFjZS5qcGdcIl0sXG4gICAgW1wiVGhlIFdvcmtzICgxOTg0KVwiLCBcImRhdGEvMTk4NF90aGVfd29ya3MuanBnXCJdLFxuICAgIFtcIkEgS2luZCBvZiBNYWdpYyAoMTk4NilcIiwgXCJkYXRhLzE5ODZfYV9raW5kX29mX21hZ2ljLmpwZ1wiXSxcbiAgICBbXCJUaGUgTWlyYWNsZSAoMTk4OSlcIiwgXCJkYXRhLzE5ODlfdGhlX21pcmFjbGUuanBnXCJdLFxuICAgIFtcIklubnVlbmRvICgxOTkxKVwiLCBcImRhdGEvMTk5MV9pbm51ZW5kby5qcGdcIl0sXG4gICAgW1wiTWFkZSBpbiBIZWF2ZW4gKDE5OTUpXCIsIFwiZGF0YS8xOTk1X21hZGVfaW5faGVhdmVuLmpwZ1wiXVxuICBdKSxcbiAgeyBsYWJlbDogXCJTZWxlY3QgYW4gYWxidW06XCIgfVxuKVxuXG5odG1sYDxpbWcgc3JjPVwiJHthbGJ1bX1cIiBzdHlsZT1cIm1heC13aWR0aDogNTAwcHg7IHdpZHRoOiAxMDAlOyBib3JkZXItcmFkaXVzOiA4cHg7XCIgLz5gXG4ifSx7Im1ldGhvZE5hbWUiOiJpbnRlcnByZXRRdWlldCIsInNvdXJjZSI6InNoaW55SW5wdXQoJ2FsYnVtJykifV19
+</script>
+<script type="module">
+if (window.location.protocol === "file:") { alert("The OJS runtime does not work with file:// URLs. Please use a web server to view this document."); }
+window._ojs.paths.runtimeToDoc = "../..";
+window._ojs.paths.runtimeToRoot = "../..";
+window._ojs.paths.docToRoot = "";
+window._ojs.selfContained = false;
+window._ojs.runtime.interpretFromScriptTags();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -218,7 +302,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/romy-bos\.github\.io\/albums\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
