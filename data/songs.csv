@@ -1,0 +1,271 @@
+artist,album,year,song,energy,danceability,acousticness,tempo
+Bruce Springsteen,Greetings From Asbury Park N J,1973,Blinded by the Light,0.67,0.51,0.31,131.0
+Bruce Springsteen,Greetings From Asbury Park N J,1973,Spirit in the Night,0.67,0.4,0.34,121.3
+Bruce Springsteen,Greetings From Asbury Park N J,1973,Growin' Up,0.66,0.53,0.34,135.6
+Bruce Springsteen,The Wild The Innocent The E Street Shuffle,1973,Rosalita,0.73,0.53,0.27,113.9
+Bruce Springsteen,The Wild The Innocent The E Street Shuffle,1973,"4th of July, Asbury Park",0.7,0.62,0.32,122.9
+Bruce Springsteen,The Wild The Innocent The E Street Shuffle,1973,Incident on 57th Street,0.72,0.4,0.3,128.9
+Bruce Springsteen,Born To Run,1975,Born to Run,0.75,0.5,0.35,126.5
+Bruce Springsteen,Born To Run,1975,Thunder Road,0.74,0.43,0.36,108.9
+Bruce Springsteen,Born To Run,1975,Jungleland,0.47,0.47,0.26,132.8
+Bruce Springsteen,Darkness On The Edge Of Town,1978,Badlands,0.73,0.42,0.38,114.0
+Bruce Springsteen,Darkness On The Edge Of Town,1978,The Promised Land,0.67,0.5,0.33,132.2
+Bruce Springsteen,Darkness On The Edge Of Town,1978,Racing in the Street,0.73,0.55,0.37,128.8
+Bruce Springsteen,The River,1980,The River,0.63,0.46,0.29,129.0
+Bruce Springsteen,The River,1980,Hungry Heart,0.66,0.71,0.26,113.0
+Bruce Springsteen,The River,1980,Out in the Street,0.74,0.63,0.36,132.4
+Bruce Springsteen,Nebraska,1982,Atlantic City,0.79,0.51,0.22,118.7
+Bruce Springsteen,Nebraska,1982,Nebraska,0.76,0.4,0.32,126.5
+Bruce Springsteen,Nebraska,1982,Johnny 99,0.65,0.58,0.36,147.2
+Bruce Springsteen,Born In The U S A,1984,Born in the U.S.A.,0.73,0.47,0.28,115.7
+Bruce Springsteen,Born In The U S A,1984,Dancing in the Dark,0.76,0.47,0.32,131.5
+Bruce Springsteen,Born In The U S A,1984,Glory Days,0.62,0.5,0.19,113.2
+Bruce Springsteen,Tunnel Of Love,1987,Brilliant Disguise,0.63,0.55,0.4,123.8
+Bruce Springsteen,Tunnel Of Love,1987,Tougher Than the Rest,0.7,0.53,0.4,132.9
+Bruce Springsteen,Tunnel Of Love,1987,Tunnel of Love,0.7,0.44,0.38,127.8
+Bruce Springsteen,Human Touch,1992,Human Touch,0.78,0.52,0.46,120.4
+Bruce Springsteen,Human Touch,1992,Roll of the Dice,0.81,0.53,0.28,112.7
+Bruce Springsteen,Human Touch,1992,57 Channels,0.67,0.63,0.38,130.9
+Bruce Springsteen,Lucky Town,1992,Better Days,0.49,0.58,0.36,118.5
+Bruce Springsteen,Lucky Town,1992,Lucky Town,0.63,0.52,0.44,113.4
+Bruce Springsteen,Lucky Town,1992,If I Should Fall Behind,0.65,0.63,0.29,120.4
+Bruce Springsteen,The Ghost Of Tom Joad,1995,The Ghost of Tom Joad,0.69,0.42,0.34,111.9
+Bruce Springsteen,The Ghost Of Tom Joad,1995,Youngstown,0.75,0.52,0.48,126.8
+Bruce Springsteen,The Ghost Of Tom Joad,1995,Sinaloa Cowboys,0.79,0.42,0.31,127.2
+Bruce Springsteen,The Rising,2002,The Rising,0.82,0.39,0.39,129.9
+Bruce Springsteen,The Rising,2002,Lonesome Day,0.8,0.58,0.32,118.8
+Bruce Springsteen,The Rising,2002,Waitin' on a Sunny Day,0.58,0.54,0.31,144.2
+Bruce Springsteen,Devils Dust,2005,Devils & Dust,0.63,0.55,0.21,120.0
+Bruce Springsteen,Devils Dust,2005,Long Time Comin',0.7,0.59,0.42,123.6
+Bruce Springsteen,Devils Dust,2005,Maria's Bed,0.59,0.56,0.36,128.9
+Bruce Springsteen,We Shall Overcome The Seeger Sessions,2006,Pay Me My Money Down,0.62,0.61,0.33,131.0
+Bruce Springsteen,We Shall Overcome The Seeger Sessions,2006,O Mary Don't You Weep,0.78,0.57,0.34,145.5
+Bruce Springsteen,We Shall Overcome The Seeger Sessions,2006,Old Dan Tucker,0.7,0.5,0.33,138.8
+Bruce Springsteen,Magic,2007,Radio Nowhere,0.69,0.56,0.4,118.9
+Bruce Springsteen,Magic,2007,Girls in Their Summer Clothes,0.54,0.54,0.34,117.9
+Bruce Springsteen,Magic,2007,Livin' in the Future,0.75,0.57,0.25,129.2
+Bruce Springsteen,Working On A Dream,2008,Working on a Dream,0.66,0.4,0.35,123.5
+Bruce Springsteen,Working On A Dream,2008,The Wrestler,0.62,0.56,0.35,118.2
+Bruce Springsteen,Working On A Dream,2008,Outlaw Pete,0.71,0.6,0.27,127.8
+Bruce Springsteen,Wrecking Ball,2012,We Take Care of Our Own,0.68,0.7,0.19,131.0
+Bruce Springsteen,Wrecking Ball,2012,Wrecking Ball,0.66,0.51,0.45,123.9
+Bruce Springsteen,Wrecking Ball,2012,Death to My Hometown,0.86,0.48,0.34,119.1
+Bruce Springsteen,High Hopes,2014,High Hopes,0.62,0.52,0.3,126.0
+Bruce Springsteen,High Hopes,2014,Dream Baby Dream,0.51,0.68,0.31,141.4
+Bruce Springsteen,High Hopes,2014,American Skin,0.6,0.54,0.54,115.3
+Bruce Springsteen,Western Stars,2019,Hello Sunshine,0.56,0.48,0.35,130.9
+Bruce Springsteen,Western Stars,2019,Western Stars,0.78,0.5,0.21,119.6
+Bruce Springsteen,Western Stars,2019,Tucson Train,0.78,0.56,0.18,123.6
+Bruce Springsteen,Letter To You,2020,Letter to You,0.79,0.69,0.36,127.1
+Bruce Springsteen,Letter To You,2020,Ghosts,0.58,0.45,0.32,129.0
+Bruce Springsteen,Letter To You,2020,Burnin' Train,0.73,0.48,0.24,116.2
+Bruce Springsteen,Only The Strong Survive Covers Vol 1,2022,Do I Love You,0.59,0.57,0.16,120.7
+Bruce Springsteen,Only The Strong Survive Covers Vol 1,2022,Nightshift,0.72,0.64,0.32,134.0
+Bruce Springsteen,Only The Strong Survive Covers Vol 1,2022,Only the Strong Survive,0.65,0.46,0.27,139.3
+BTS,Dark Wild,2014,Danger,0.89,0.77,0.38,127.7
+BTS,Dark Wild,2014,War of Hormone,0.86,0.75,0.13,151.2
+BTS,Dark Wild,2014,Let Me Know,0.93,0.62,0.12,132.3
+BTS,Wake Up,2014,Wake Up,0.87,0.62,0.02,108.9
+BTS,Wake Up,2014,No More Dream,0.8,0.72,0.17,120.3
+BTS,Wake Up,2014,Boy In Luv,0.71,0.57,0.17,131.7
+BTS,Wings,2016,Blood Sweat & Tears,0.89,0.79,0.14,141.5
+BTS,Wings,2016,Spring Day,0.8,0.68,0.11,122.2
+BTS,Wings,2016,Lie,0.64,0.74,0.17,124.4
+BTS,Youth,2016,Run,0.75,0.76,0.27,128.4
+BTS,Youth,2016,I Need U,0.77,0.68,0.15,115.4
+BTS,Youth,2016,For You,0.8,0.73,0.28,137.4
+BTS,Face Yourself,2018,Don't Leave Me,0.89,0.67,0.2,116.6
+BTS,Face Yourself,2018,Crystal Snow,0.83,0.76,0.1,148.0
+BTS,Face Yourself,2018,Mic Drop,0.86,0.58,0.19,123.9
+BTS,Love Yourself Tear,2018,Fake Love,0.81,0.77,0.18,107.6
+BTS,Love Yourself Tear,2018,The Truth Untold,0.72,0.79,0.24,147.0
+BTS,Love Yourself Tear,2018,Airplane pt. 2,0.95,0.57,0.2,108.8
+BTS,Bts World Original Soundtrack,2019,Heartbeat,0.94,0.75,0.07,148.1
+BTS,Bts World Original Soundtrack,2019,Dream Glow,0.86,0.58,0.17,120.7
+BTS,Bts World Original Soundtrack,2019,A Brand New Day,0.82,0.69,0.25,113.8
+BTS,Be,2020,Dynamite,0.84,0.88,0.09,130.1
+BTS,Be,2020,Life Goes On,0.83,0.67,0.2,129.0
+BTS,Be,2020,Blue & Grey,0.73,0.87,0.21,126.3
+BTS,Map Of The Soul 7,2020,ON,0.76,0.67,0.24,126.5
+BTS,Map Of The Soul 7,2020,Black Swan,0.85,0.72,0.19,126.8
+BTS,Map Of The Soul 7,2020,Boy With Luv,0.87,0.72,0.21,134.7
+BTS,Map Of The Soul 7 The Journey,2020,Stay Gold,0.8,0.66,0.08,120.6
+BTS,Map Of The Soul 7 The Journey,2020,Your Eyes Tell,0.73,0.8,0.15,143.7
+BTS,Map Of The Soul 7 The Journey,2020,Lights,0.98,0.73,0.04,124.2
+BTS,Arirang,2026,Arirang,0.8,0.61,0.13,130.9
+BTS,Arirang,2026,Spring Breeze,0.77,0.67,0.1,145.9
+BTS,Arirang,2026,Echoes,0.8,0.66,0.12,137.5
+Kodak Black,Project Baby,2013,Shoulda Been a Murderer,0.6,0.81,0.23,141.5
+Kodak Black,Project Baby,2013,4th Quarter,0.76,0.73,0.26,126.1
+Kodak Black,Project Baby,2013,Project Baby,0.62,0.87,0.24,134.0
+Kodak Black,Heart Of The Projects,2014,No Flockin,0.55,0.81,0.14,124.8
+Kodak Black,Heart Of The Projects,2014,SKRT,0.6,0.79,0.03,137.6
+Kodak Black,Heart Of The Projects,2014,Vibin in This Bih,0.66,0.72,0.25,140.1
+Kodak Black,Institution,2015,Institution,0.6,0.72,0.23,118.8
+Kodak Black,Institution,2015,Like Dat,0.62,0.72,0.18,136.1
+Kodak Black,Institution,2015,Deep in These Streets,0.65,0.86,0.2,130.9
+Kodak Black,Lil B I G Pac,2016,Vibin in This Bih,0.55,0.83,0.22,148.5
+Kodak Black,Lil B I G Pac,2016,Purp,0.59,0.77,0.18,133.1
+Kodak Black,Lil B I G Pac,2016,Gave Boy,0.65,0.63,0.24,140.5
+Kodak Black,F E M A,2017,Too Many Tears,0.74,0.95,0.16,133.6
+Kodak Black,F E M A,2017,Collateral Damage,0.65,0.93,0.06,138.9
+Kodak Black,F E M A,2017,Amigo,0.53,0.56,0.04,120.2
+Kodak Black,Painting Pictures,2017,Tunnel Vision,0.74,0.7,0.16,122.4
+Kodak Black,Painting Pictures,2017,There He Go,0.7,0.68,0.27,124.1
+Kodak Black,Painting Pictures,2017,Patty Cake,0.59,0.78,0.18,148.2
+Kodak Black,Project Baby Two,2017,Roll in Peace,0.66,0.67,0.14,128.3
+Kodak Black,Project Baby Two,2017,Transportin',0.71,0.8,0.17,142.7
+Kodak Black,Project Baby Two,2017,First Day Out,0.61,0.76,0.19,149.3
+Kodak Black,Dying To Live,2018,ZEZE,0.64,0.74,0.11,140.9
+Kodak Black,Dying To Live,2018,Calling My Spirit,0.6,0.8,0.05,144.4
+Kodak Black,Dying To Live,2018,Take One,0.54,0.71,0.25,120.7
+Kodak Black,Heart Break Kodak,2018,Codeine Dreaming,0.64,0.78,0.11,147.4
+Kodak Black,Heart Break Kodak,2018,Running Outta Love,0.77,0.61,0.08,142.1
+Kodak Black,Heart Break Kodak,2018,La Dy,0.55,0.74,0.19,140.9
+Kodak Black,Kill Bill,2018,Kill Bill,0.63,0.78,0.13,146.9
+Kodak Black,Kill Bill,2018,Halloween,0.61,0.8,0.14,135.1
+Kodak Black,Kill Bill,2018,Glock,0.64,0.76,0.11,142.0
+Kodak Black,Bill Israel,2020,Feeling Myself,0.76,0.79,0.23,142.4
+Kodak Black,Bill Israel,2020,Spain,0.72,0.79,0.19,142.6
+Kodak Black,Bill Israel,2020,Serene,0.66,0.69,0.18,115.1
+Kodak Black,Before The Album,2021,Before the Album,0.65,0.8,0.27,135.5
+Kodak Black,Before The Album,2021,Versatile,0.72,0.77,0.11,119.9
+Kodak Black,Before The Album,2021,Senseless,0.57,0.66,0.22,131.9
+Kodak Black,Haitian Boy Kodak,2021,Z Look Jamaican,0.7,0.78,0.25,144.6
+Kodak Black,Haitian Boy Kodak,2021,Deceitful,0.6,0.75,0.14,117.8
+Kodak Black,Haitian Boy Kodak,2021,Basement on Fire,0.7,0.87,0.18,129.1
+Kodak Black,Back For Everything,2022,Super Gremlin,0.74,0.58,0.19,135.4
+Kodak Black,Back For Everything,2022,Usain Boo,0.6,0.88,0.25,131.4
+Kodak Black,Back For Everything,2022,Grinding All Season,0.64,0.74,0.14,120.9
+Kodak Black,Kutthroat Bill Vol 1,2022,Walk,0.76,0.85,0.24,123.1
+Kodak Black,Kutthroat Bill Vol 1,2022,Spin,0.82,0.93,0.19,125.0
+Kodak Black,Kutthroat Bill Vol 1,2022,Bad Man,0.58,0.8,0.12,133.7
+Kodak Black,Pistolz Pearlz,2023,Gunsmoke Town,0.74,0.65,0.32,149.7
+Kodak Black,Pistolz Pearlz,2023,Church on Sunday,0.55,0.66,0.16,123.7
+Kodak Black,Pistolz Pearlz,2023,Dirt McGirk,0.63,0.56,0.16,152.0
+Kodak Black,When I Was Dead,2023,Lemme See,0.56,0.75,0.08,140.4
+Kodak Black,When I Was Dead,2023,2018,0.63,0.93,0.19,130.3
+Kodak Black,When I Was Dead,2023,Hard Life,0.69,0.73,0.09,137.0
+Kodak Black,Dieuson Octave,2024,Dieuson,0.64,0.78,0.21,128.9
+Kodak Black,Dieuson Octave,2024,Octave Flow,0.68,0.91,0.1,151.4
+Kodak Black,Dieuson Octave,2024,Glock 9,0.63,0.71,0.35,135.6
+Kodak Black,Gift For The Streets,2024,Street Gift,0.76,0.84,0.06,135.2
+Kodak Black,Gift For The Streets,2024,Blessings,0.61,0.66,0.06,135.0
+Kodak Black,Gift For The Streets,2024,Vulture,0.7,0.8,0.16,126.0
+Kodak Black,Trill Bill,2024,Trill Bill,0.57,0.73,0.11,132.0
+Kodak Black,Trill Bill,2024,No Limits,0.65,0.7,0.16,126.4
+Kodak Black,Trill Bill,2024,Real One,0.65,0.81,0.19,138.7
+Kodak Black,Vulture Love Presents The Last Zombies On Earth,2024,Zombie Walk,0.52,0.74,0.2,140.4
+Kodak Black,Vulture Love Presents The Last Zombies On Earth,2024,Vulture Anthem,0.52,0.78,0.26,132.2
+Kodak Black,Vulture Love Presents The Last Zombies On Earth,2024,Survivor,0.64,0.81,0.2,140.7
+Kodak Black,Just Getting Started,2025,Started,0.66,0.78,0.13,132.3
+Kodak Black,Just Getting Started,2025,Fresh Air,0.75,0.75,0.17,129.1
+Kodak Black,Just Getting Started,2025,New Chapter,0.71,0.7,0.24,124.6
+Kodak Black,Kodak The Blessing,2026,The Blessing,0.57,0.79,0.19,137.0
+Kodak Black,Kodak The Blessing,2026,Grace,0.74,0.74,0.21,124.9
+Kodak Black,Kodak The Blessing,2026,Thankful,0.75,0.82,0.22,135.9
+Queen,Queen,1973,Keep Yourself Alive,0.68,0.52,0.32,121.8
+Queen,Queen,1973,Liar,0.75,0.44,0.29,115.1
+Queen,Queen,1973,Great King Rat,0.65,0.54,0.15,129.0
+Queen,Queen Ii,1974,Seven Seas of Rhye,0.81,0.55,0.21,112.5
+Queen,Queen Ii,1974,The March of the Black Queen,0.73,0.36,0.29,128.6
+Queen,Queen Ii,1974,White Queen,0.72,0.51,0.29,125.5
+Queen,Sheer Heart Attack,1974,Killer Queen,0.83,0.55,0.23,117.4
+Queen,Sheer Heart Attack,1974,Now I'm Here,0.75,0.67,0.26,111.5
+Queen,Sheer Heart Attack,1974,Stone Cold Crazy,0.67,0.38,0.3,108.4
+Queen,A Night At The Opera,1975,Bohemian Rhapsody,0.64,0.39,0.2,127.7
+Queen,A Night At The Opera,1975,You're My Best Friend,0.64,0.41,0.29,118.6
+Queen,A Night At The Opera,1975,Love of My Life,0.77,0.61,0.28,109.0
+Queen,A Day At The Races,1976,Somebody to Love,0.73,0.59,0.24,107.6
+Queen,A Day At The Races,1976,Tie Your Mother Down,0.83,0.52,0.25,122.2
+Queen,A Day At The Races,1976,Good Old-Fashioned Lover Boy,0.82,0.57,0.26,128.8
+Queen,News Of The World,1977,We Will Rock You,0.91,0.66,0.33,110.8
+Queen,News Of The World,1977,We Are the Champions,0.98,0.45,0.25,115.0
+Queen,News Of The World,1977,Spread Your Wings,0.87,0.58,0.18,124.7
+Queen,Jazz,1978,Don't Stop Me Now,0.78,0.52,0.19,114.7
+Queen,Jazz,1978,Fat Bottomed Girls,0.71,0.55,0.24,129.4
+Queen,Jazz,1978,Bicycle Race,0.66,0.41,0.23,135.5
+Queen,Flash Gordon,1980,Flash's Theme,0.69,0.74,0.31,110.4
+Queen,Flash Gordon,1980,The Hero,0.67,0.57,0.2,145.7
+Queen,Flash Gordon,1980,Battle Theme,0.66,0.6,0.38,120.9
+Queen,The Game,1980,Another One Bites the Dust,0.66,0.53,0.31,130.8
+Queen,The Game,1980,Crazy Little Thing Called Love,0.74,0.44,0.28,115.3
+Queen,The Game,1980,Save Me,0.57,0.49,0.18,127.9
+Queen,Hot Space,1982,Under Pressure,0.9,0.7,0.24,117.3
+Queen,Hot Space,1982,Body Language,0.8,0.63,0.25,120.6
+Queen,Hot Space,1982,Back Chat,0.92,0.54,0.25,123.2
+Queen,The Works,1984,Radio Ga Ga,0.79,0.47,0.26,110.3
+Queen,The Works,1984,I Want to Break Free,0.72,0.7,0.33,121.1
+Queen,The Works,1984,Hammer to Fall,0.67,0.53,0.35,116.4
+Queen,A Kind Of Magic,1986,A Kind of Magic,0.86,0.44,0.26,139.4
+Queen,A Kind Of Magic,1986,One Vision,0.58,0.65,0.15,121.1
+Queen,A Kind Of Magic,1986,Friends Will Be Friends,0.73,0.62,0.06,102.8
+Queen,The Miracle,1989,I Want It All,0.69,0.55,0.22,119.8
+Queen,The Miracle,1989,The Miracle,0.65,0.52,0.22,124.4
+Queen,The Miracle,1989,Breakthru,0.79,0.66,0.23,118.8
+Queen,Innuendo,1991,The Show Must Go On,0.74,0.53,0.28,106.4
+Queen,Innuendo,1991,Innuendo,0.77,0.48,0.21,106.1
+Queen,Innuendo,1991,These Are the Days of Our Lives,0.83,0.54,0.36,124.7
+Queen,Made In Heaven,1995,Made in Heaven,0.6,0.46,0.33,114.3
+Queen,Made In Heaven,1995,Too Much Love Will Kill You,0.65,0.54,0.27,111.9
+Queen,Made In Heaven,1995,Heaven for Everyone,0.71,0.51,0.1,127.0
+Taylor Swift,Taylor Swift Demo,2003,Tim McGraw (Demo),0.56,0.74,0.3,102.2
+Taylor Swift,Taylor Swift Demo,2003,Teardrops on My Guitar (Demo),0.72,0.51,0.34,124.0
+Taylor Swift,Taylor Swift Demo,2003,Our Song (Demo),0.59,0.51,0.39,116.1
+Taylor Swift,Volume Two,2003,I'd Lie,0.72,0.69,0.59,101.5
+Taylor Swift,Volume Two,2003,Permanent Marker,0.62,0.55,0.46,126.2
+Taylor Swift,Volume Two,2003,Dark Blue Tennessee,0.68,0.58,0.33,97.7
+Taylor Swift,Taylor Swift,2006,Tim McGraw,0.76,0.68,0.36,127.3
+Taylor Swift,Taylor Swift,2006,Teardrops on My Guitar,0.68,0.72,0.27,110.9
+Taylor Swift,Taylor Swift,2006,Our Song,0.64,0.67,0.45,107.9
+Taylor Swift,Fearless,2008,Love Story,0.63,0.82,0.43,126.7
+Taylor Swift,Fearless,2008,You Belong With Me,0.62,0.7,0.51,119.1
+Taylor Swift,Fearless,2008,White Horse,0.72,0.57,0.42,127.0
+Taylor Swift,Speak Now,2010,Mine,0.56,0.73,0.33,109.9
+Taylor Swift,Speak Now,2010,Back to December,0.62,0.79,0.4,127.4
+Taylor Swift,Speak Now,2010,Mean,0.56,0.65,0.3,112.3
+Taylor Swift,Red,2012,All Too Well,0.69,0.64,0.48,116.0
+Taylor Swift,Red,2012,We Are Never Getting Back Together,0.6,0.74,0.33,102.8
+Taylor Swift,Red,2012,I Knew You Were Trouble,0.72,0.67,0.23,118.4
+Taylor Swift,1989,2014,Blank Space,0.59,0.78,0.33,112.2
+Taylor Swift,1989,2014,Shake It Off,0.55,0.56,0.33,103.6
+Taylor Swift,1989,2014,Style,0.54,0.51,0.28,102.4
+Taylor Swift,The Taylor Swift Megamix,2015,Megamix 1989,0.58,0.59,0.29,122.8
+Taylor Swift,The Taylor Swift Megamix,2015,Country Pop Medley,0.62,0.61,0.35,133.9
+Taylor Swift,The Taylor Swift Megamix,2015,Summer Remix,0.64,0.68,0.2,111.5
+Taylor Swift,Reputation,2017,Look What You Made Me Do,0.45,0.61,0.41,111.3
+Taylor Swift,Reputation,2017,Delicate,0.66,0.56,0.42,102.5
+Taylor Swift,Reputation,2017,Getaway Car,0.6,0.67,0.42,116.7
+Taylor Swift,Lover,2019,Cruel Summer,0.78,0.61,0.35,90.4
+Taylor Swift,Lover,2019,Lover,0.76,0.61,0.3,131.2
+Taylor Swift,Lover,2019,ME!,0.72,0.65,0.28,122.2
+Taylor Swift,Evermore,2020,Willow,0.57,0.55,0.45,96.7
+Taylor Swift,Evermore,2020,Champagne Problems,0.67,0.68,0.52,121.3
+Taylor Swift,Evermore,2020,Gold Rush,0.46,0.57,0.38,121.6
+Taylor Swift,Folklore,2020,Cardigan,0.7,0.48,0.36,127.7
+Taylor Swift,Folklore,2020,Exile,0.74,0.79,0.35,129.0
+Taylor Swift,Folklore,2020,The 1,0.76,0.74,0.43,126.3
+Taylor Swift,Fearless Taylor S Version,2021,Love Story (TV),0.56,0.52,0.45,114.5
+Taylor Swift,Fearless Taylor S Version,2021,Mr. Perfectly Fine,0.62,0.59,0.35,120.3
+Taylor Swift,Fearless Taylor S Version,2021,You Belong With Me (TV),0.54,0.65,0.4,117.2
+Taylor Swift,Red Taylor S Version,2021,All Too Well (10 Min),0.56,0.7,0.51,112.0
+Taylor Swift,Red Taylor S Version,2021,Red (TV),0.72,0.71,0.19,110.4
+Taylor Swift,Red Taylor S Version,2021,I Bet You Think About Me,0.57,0.7,0.39,122.7
+Taylor Swift,The Vault Deluxe,2021,Nothing New,0.67,0.57,0.33,105.8
+Taylor Swift,The Vault Deluxe,2021,Message in a Bottle,0.61,0.63,0.39,110.7
+Taylor Swift,The Vault Deluxe,2021,Babe,0.69,0.71,0.49,125.1
+Taylor Swift,Midnights,2022,Anti-Hero,0.63,0.69,0.42,111.5
+Taylor Swift,Midnights,2022,Lavender Haze,0.72,0.78,0.52,118.4
+Taylor Swift,Midnights,2022,Karma,0.65,0.67,0.38,124.2
+Taylor Swift,1989 Taylor S Version,2023,Style (TV),0.61,0.62,0.5,119.6
+Taylor Swift,1989 Taylor S Version,2023,Blank Space (TV),0.63,0.71,0.39,120.9
+Taylor Swift,1989 Taylor S Version,2023,Is It Over Now?,0.61,0.54,0.38,106.6
+Taylor Swift,Speak Now Taylor S Version,2023,Mine (TV),0.64,0.55,0.44,125.5
+Taylor Swift,Speak Now Taylor S Version,2023,Enchanted (TV),0.64,0.63,0.41,98.4
+Taylor Swift,Speak Now Taylor S Version,2023,I Can See You,0.53,0.63,0.4,117.2
+Taylor Swift,The Tortured Poets Department,2024,Fortnight,0.54,0.65,0.35,107.3
+Taylor Swift,The Tortured Poets Department,2024,I Can Do It With a Broken Heart,0.65,0.62,0.46,124.7
+Taylor Swift,The Tortured Poets Department,2024,Down Bad,0.68,0.67,0.32,108.6
+Taylor Swift,The Life Of A Showgirl,2025,The Spotlight,0.5,0.87,0.3,115.9
+Taylor Swift,The Life Of A Showgirl,2025,Showgirl,0.59,0.62,0.34,99.3
+Taylor Swift,The Life Of A Showgirl,2025,Curtain Call,0.54,0.53,0.37,111.2
