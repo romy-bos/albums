@@ -4,7 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Hi! I’m Romy Bos, an undergraduate student at New College of Florida. I created this project as part of my data science coursework using R and Quarto.\n\nGitHub: github.com/romy-bos\nRepository: github.com/romy-bos/albums\nContact: r.bos28@ncf.edu"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I’m Romy Bos, an undergraduate student at New College of Florida. I created this project as part of my data science coursework using R and Quarto.\n\nGitHub: github.com/romy-bos\nRepository: github.com/romy-bos/albums\nContact: r.bos28@ncf.edu"
+  },
+  {
+    "objectID": "about.html#about-the-project",
+    "href": "about.html#about-the-project",
+    "title": "About",
+    "section": "About the Project",
+    "text": "About the Project\nThis interactive website investigates visual and auditory patterns across 90+ album covers from five distinct global artists: Bruce Springsteen, Queen, BTS, Kodak Black, and Taylor Swift.\n\nHow It Works\n\nCover Art Similarity: Album covers were evaluated using image feature embeddings. By calculating cosine similarity scores, each album is matched with its closest visual twin and its most distinct aesthetic contrast.\nAudio Features Landscape: Using track audio metrics (danceability, energy, tempo), the site maps out how musical characteristics differ across eras and genres.\nGeographic Popularity: An interactive US map illustrates regional listening preferences and top-streamed songs across states.\n\nThis project was built with Quarto, Observable JS, and the R tidyverse."
   },
   {
     "objectID": "index.html",

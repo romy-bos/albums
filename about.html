@@ -114,8 +114,18 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About Me</a></li>
+  <li><a href="#about-the-project" id="toc-about-the-project" class="nav-link" data-scroll-target="#about-the-project">About the Project</a>
+  <ul class="collapse">
+  <li><a href="#how-it-works" id="toc-how-it-works" class="nav-link" data-scroll-target="#how-it-works">How It Works</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -139,9 +149,30 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>About this site</p>
+<section id="about-me" class="level2">
+<h2 class="anchored" data-anchor-id="about-me">About Me</h2>
+<p>Hi! I’m <strong>Romy Bos</strong>, an undergraduate student at New College of Florida. I created this project as part of my data science coursework using R and Quarto.</p>
+<ul>
+<li><strong>GitHub:</strong> <a href="https://github.com/romy-bos">github.com/romy-bos</a></li>
+<li><strong>Repository:</strong> <a href="https://github.com/romy-bos/albums">github.com/romy-bos/albums</a></li>
+<li><strong>Contact:</strong> <a href="mailto:r.bos28@ncf.edu">r.bos28@ncf.edu</a></li>
+</ul>
+</section>
+<section id="about-the-project" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-project">About the Project</h2>
+<p>This interactive website investigates visual and auditory patterns across <strong>90+ album covers</strong> from five distinct global artists: <strong>Bruce Springsteen</strong>, <strong>Queen</strong>, <strong>BTS</strong>, <strong>Kodak Black</strong>, and <strong>Taylor Swift</strong>.</p>
+<section id="how-it-works" class="level3">
+<h3 class="anchored" data-anchor-id="how-it-works">How It Works</h3>
+<ol type="1">
+<li><strong>Cover Art Similarity:</strong> Album covers were evaluated using image feature embeddings. By calculating cosine similarity scores, each album is matched with its closest visual twin and its most distinct aesthetic contrast.</li>
+<li><strong>Audio Features Landscape:</strong> Using track audio metrics (danceability, energy, tempo), the site maps out how musical characteristics differ across eras and genres.</li>
+<li><strong>Geographic Popularity:</strong> An interactive US map illustrates regional listening preferences and top-streamed songs across states.</li>
+</ol>
+<p>This project was built with <a href="https://quarto.org">Quarto</a>, <a href="https://observablehq.com">Observable JS</a>, and the <a href="https://www.tidyverse.org">R tidyverse</a>.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
