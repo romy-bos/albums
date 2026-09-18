@@ -7,7 +7,12 @@
     "similar_score": 0.844,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.539
+    "different_score": 0.539,
+    "tracks": [
+      "Blinded by the Light",
+      "Spirit in the Night",
+      "Growin' Up"
+    ]
   },
   {
     "label": "Bruce Springsteen - The Wild The Innocent The E Street Shuffle (1973)",
@@ -17,7 +22,12 @@
     "similar_score": 0.873,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.412
+    "different_score": 0.412,
+    "tracks": [
+      "Rosalita",
+      "4th of July, Asbury Park",
+      "Incident on 57th Street"
+    ]
   },
   {
     "label": "Bruce Springsteen - Born To Run (1975)",
@@ -27,7 +37,12 @@
     "similar_score": 0.909,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.339
+    "different_score": 0.339,
+    "tracks": [
+      "Born to Run",
+      "Thunder Road",
+      "Jungleland"
+    ]
   },
   {
     "label": "Bruce Springsteen - Darkness On The Edge Of Town (1978)",
@@ -37,7 +52,12 @@
     "similar_score": 0.89,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.378
+    "different_score": 0.378,
+    "tracks": [
+      "Badlands",
+      "The Promised Land",
+      "Racing in the Street"
+    ]
   },
   {
     "label": "Bruce Springsteen - The River (1980)",
@@ -47,7 +67,12 @@
     "similar_score": 0.843,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.571
+    "different_score": 0.571,
+    "tracks": [
+      "The River",
+      "Hungry Heart",
+      "Out in the Street"
+    ]
   },
   {
     "label": "Bruce Springsteen - Nebraska (1982)",
@@ -57,7 +82,12 @@
     "similar_score": 0.835,
     "different_name": "Queen - The Game (1980)",
     "different_file": "data/queen_1980_the_game.jpg",
-    "different_score": 0.59
+    "different_score": 0.59,
+    "tracks": [
+      "Atlantic City",
+      "Nebraska",
+      "Johnny 99"
+    ]
   },
   {
     "label": "Bruce Springsteen - Born In The U S A (1984)",
@@ -67,7 +97,12 @@
     "similar_score": 0.861,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.507
+    "different_score": 0.507,
+    "tracks": [
+      "Born in the U.S.A.",
+      "Dancing in the Dark",
+      "Glory Days"
+    ]
   },
   {
     "label": "Bruce Springsteen - Tunnel Of Love (1987)",
@@ -77,7 +112,12 @@
     "similar_score": 0.898,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.346
+    "different_score": 0.346,
+    "tracks": [
+      "Brilliant Disguise",
+      "Tougher Than the Rest",
+      "Tunnel of Love"
+    ]
   },
   {
     "label": "Bruce Springsteen - Human Touch (1992)",
@@ -87,7 +127,12 @@
     "similar_score": 0.874,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.323
+    "different_score": 0.323,
+    "tracks": [
+      "Human Touch",
+      "Roll of the Dice",
+      "57 Channels"
+    ]
   },
   {
     "label": "Bruce Springsteen - Lucky Town (1992)",
@@ -97,7 +142,12 @@
     "similar_score": 0.893,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.443
+    "different_score": 0.443,
+    "tracks": [
+      "Better Days",
+      "Lucky Town",
+      "If I Should Fall Behind"
+    ]
   },
   {
     "label": "Bruce Springsteen - The Ghost Of Tom Joad (1995)",
@@ -107,7 +157,12 @@
     "similar_score": 0.877,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.456
+    "different_score": 0.456,
+    "tracks": [
+      "The Ghost of Tom Joad",
+      "Youngstown",
+      "Sinaloa Cowboys"
+    ]
   },
   {
     "label": "Bruce Springsteen - The Rising (2002)",
@@ -117,7 +172,12 @@
     "similar_score": 0.912,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.411
+    "different_score": 0.411,
+    "tracks": [
+      "The Rising",
+      "Lonesome Day",
+      "Waitin' on a Sunny Day"
+    ]
   },
   {
     "label": "Bruce Springsteen - Devils Dust (2005)",
@@ -127,7 +187,12 @@
     "similar_score": 0.819,
     "different_name": "Kodak Black - Lil B I G Pac (2016)",
     "different_file": "data/kodak_black_2016_lil_b_i_g_pac.jpg",
-    "different_score": 0.58
+    "different_score": 0.58,
+    "tracks": [
+      "Devils & Dust",
+      "Long Time Comin'",
+      "Maria's Bed"
+    ]
   },
   {
     "label": "Bruce Springsteen - We Shall Overcome The Seeger Sessions (2006)",
@@ -137,7 +202,12 @@
     "similar_score": 0.872,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.49
+    "different_score": 0.49,
+    "tracks": [
+      "Pay Me My Money Down",
+      "O Mary Don't You Weep",
+      "Old Dan Tucker"
+    ]
   },
   {
     "label": "Bruce Springsteen - Magic (2007)",
@@ -147,7 +217,12 @@
     "similar_score": 0.895,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.35
+    "different_score": 0.35,
+    "tracks": [
+      "Radio Nowhere",
+      "Girls in Their Summer Clothes",
+      "Livin' in the Future"
+    ]
   },
   {
     "label": "Bruce Springsteen - Working On A Dream (2008)",
@@ -157,7 +232,12 @@
     "similar_score": 0.798,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.529
+    "different_score": 0.529,
+    "tracks": [
+      "Working on a Dream",
+      "The Wrestler",
+      "Outlaw Pete"
+    ]
   },
   {
     "label": "Bruce Springsteen - Wrecking Ball (2012)",
@@ -167,7 +247,12 @@
     "similar_score": 0.835,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.597
+    "different_score": 0.597,
+    "tracks": [
+      "We Take Care of Our Own",
+      "Wrecking Ball",
+      "Death to My Hometown"
+    ]
   },
   {
     "label": "Bruce Springsteen - High Hopes (2014)",
@@ -177,7 +262,12 @@
     "similar_score": 0.848,
     "different_name": "Queen - The Game (1980)",
     "different_file": "data/queen_1980_the_game.jpg",
-    "different_score": 0.554
+    "different_score": 0.554,
+    "tracks": [
+      "High Hopes",
+      "Dream Baby Dream",
+      "American Skin"
+    ]
   },
   {
     "label": "Bruce Springsteen - Western Stars (2019)",
@@ -187,7 +277,12 @@
     "similar_score": 0.912,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.383
+    "different_score": 0.383,
+    "tracks": [
+      "Hello Sunshine",
+      "Western Stars",
+      "Tucson Train"
+    ]
   },
   {
     "label": "Bruce Springsteen - Letter To You (2020)",
@@ -197,7 +292,12 @@
     "similar_score": 0.893,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.515
+    "different_score": 0.515,
+    "tracks": [
+      "Letter to You",
+      "Ghosts",
+      "Burnin' Train"
+    ]
   },
   {
     "label": "Bruce Springsteen - Only The Strong Survive Covers Vol 1 (2022)",
@@ -207,7 +307,12 @@
     "similar_score": 0.77,
     "different_name": "BTS - Map Of The Soul 7 (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7.jpg",
-    "different_score": 0.461
+    "different_score": 0.461,
+    "tracks": [
+      "Do I Love You",
+      "Nightshift",
+      "Only the Strong Survive"
+    ]
   },
   {
     "label": "BTS - Dark Wild (2014)",
@@ -217,7 +322,12 @@
     "similar_score": 0.829,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.5
+    "different_score": 0.5,
+    "tracks": [
+      "Danger",
+      "War of Hormone",
+      "Let Me Know"
+    ]
   },
   {
     "label": "BTS - Wake Up (2014)",
@@ -227,7 +337,12 @@
     "similar_score": 0.879,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.439
+    "different_score": 0.439,
+    "tracks": [
+      "Wake Up",
+      "No More Dream",
+      "Boy In Luv"
+    ]
   },
   {
     "label": "BTS - Wings (2016)",
@@ -237,7 +352,12 @@
     "similar_score": 0.95,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.334
+    "different_score": 0.334,
+    "tracks": [
+      "Blood Sweat & Tears",
+      "Spring Day",
+      "Lie"
+    ]
   },
   {
     "label": "BTS - Youth (2016)",
@@ -247,7 +367,12 @@
     "similar_score": 0.882,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.392
+    "different_score": 0.392,
+    "tracks": [
+      "Run",
+      "I Need U",
+      "For You"
+    ]
   },
   {
     "label": "BTS - Face Yourself (2018)",
@@ -257,7 +382,12 @@
     "similar_score": 0.942,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.357
+    "different_score": 0.357,
+    "tracks": [
+      "Don't Leave Me",
+      "Crystal Snow",
+      "Mic Drop"
+    ]
   },
   {
     "label": "BTS - Love Yourself Tear (2018)",
@@ -267,7 +397,12 @@
     "similar_score": 0.765,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.564
+    "different_score": 0.564,
+    "tracks": [
+      "Fake Love",
+      "The Truth Untold",
+      "Airplane pt. 2"
+    ]
   },
   {
     "label": "BTS - Bts World Original Soundtrack (2019)",
@@ -277,7 +412,12 @@
     "similar_score": 0.914,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.391
+    "different_score": 0.391,
+    "tracks": [
+      "Heartbeat",
+      "Dream Glow",
+      "A Brand New Day"
+    ]
   },
   {
     "label": "BTS - Be (2020)",
@@ -287,7 +427,12 @@
     "similar_score": 0.925,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.348
+    "different_score": 0.348,
+    "tracks": [
+      "Dynamite",
+      "Life Goes On",
+      "Blue & Grey"
+    ]
   },
   {
     "label": "BTS - Map Of The Soul 7 (2020)",
@@ -297,7 +442,12 @@
     "similar_score": 0.942,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.351
+    "different_score": 0.351,
+    "tracks": [
+      "ON",
+      "Black Swan",
+      "Boy With Luv"
+    ]
   },
   {
     "label": "BTS - Map Of The Soul 7 The Journey (2020)",
@@ -307,7 +457,12 @@
     "similar_score": 0.807,
     "different_name": "Kodak Black - Bill Israel (2020)",
     "different_file": "data/kodak_black_2020_bill_israel.jpg",
-    "different_score": 0.313
+    "different_score": 0.313,
+    "tracks": [
+      "Stay Gold",
+      "Your Eyes Tell",
+      "Lights"
+    ]
   },
   {
     "label": "BTS - Arirang (2026)",
@@ -317,7 +472,12 @@
     "similar_score": 0.83,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.513
+    "different_score": 0.513,
+    "tracks": [
+      "Arirang",
+      "Spring Breeze",
+      "Echoes"
+    ]
   },
   {
     "label": "Kodak Black - Project Baby (2013)",
@@ -327,7 +487,12 @@
     "similar_score": 0.883,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.509
+    "different_score": 0.509,
+    "tracks": [
+      "Shoulda Been a Murderer",
+      "4th Quarter",
+      "Project Baby"
+    ]
   },
   {
     "label": "Kodak Black - Heart Of The Projects (2014)",
@@ -337,7 +502,12 @@
     "similar_score": 0.915,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.439
+    "different_score": 0.439,
+    "tracks": [
+      "No Flockin",
+      "SKRT",
+      "Vibin in This Bih"
+    ]
   },
   {
     "label": "Kodak Black - Institution (2015)",
@@ -347,7 +517,12 @@
     "similar_score": 0.864,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.413
+    "different_score": 0.413,
+    "tracks": [
+      "Institution",
+      "Like Dat",
+      "Deep in These Streets"
+    ]
   },
   {
     "label": "Kodak Black - Lil B I G Pac (2016)",
@@ -357,7 +532,12 @@
     "similar_score": 0.931,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.364
+    "different_score": 0.364,
+    "tracks": [
+      "Vibin in This Bih",
+      "Purp",
+      "Gave Boy"
+    ]
   },
   {
     "label": "Kodak Black - F E M A (2017)",
@@ -367,7 +547,12 @@
     "similar_score": 0.915,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.411
+    "different_score": 0.411,
+    "tracks": [
+      "Too Many Tears",
+      "Collateral Damage",
+      "Amigo"
+    ]
   },
   {
     "label": "Kodak Black - Painting Pictures (2017)",
@@ -377,7 +562,12 @@
     "similar_score": 0.883,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.381
+    "different_score": 0.381,
+    "tracks": [
+      "Tunnel Vision",
+      "There He Go",
+      "Patty Cake"
+    ]
   },
   {
     "label": "Kodak Black - Project Baby Two (2017)",
@@ -387,7 +577,12 @@
     "similar_score": 0.867,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.543
+    "different_score": 0.543,
+    "tracks": [
+      "Roll in Peace",
+      "Transportin'",
+      "First Day Out"
+    ]
   },
   {
     "label": "Kodak Black - Dying To Live (2018)",
@@ -397,7 +592,12 @@
     "similar_score": 0.773,
     "different_name": "Queen - Queen (1973)",
     "different_file": "data/queen_1973_queen.jpg",
-    "different_score": 0.528
+    "different_score": 0.528,
+    "tracks": [
+      "ZEZE",
+      "Calling My Spirit",
+      "Take One"
+    ]
   },
   {
     "label": "Kodak Black - Heart Break Kodak (2018)",
@@ -407,7 +607,12 @@
     "similar_score": 0.857,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.386
+    "different_score": 0.386,
+    "tracks": [
+      "Codeine Dreaming",
+      "Running Outta Love",
+      "La Dy"
+    ]
   },
   {
     "label": "Kodak Black - Kill Bill (2018)",
@@ -417,7 +622,12 @@
     "similar_score": 0.942,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.386
+    "different_score": 0.386,
+    "tracks": [
+      "Kill Bill",
+      "Halloween",
+      "Glock"
+    ]
   },
   {
     "label": "Kodak Black - Bill Israel (2020)",
@@ -427,7 +637,12 @@
     "similar_score": 0.907,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.305
+    "different_score": 0.305,
+    "tracks": [
+      "Feeling Myself",
+      "Spain",
+      "Serene"
+    ]
   },
   {
     "label": "Kodak Black - Before The Album (2021)",
@@ -437,7 +652,12 @@
     "similar_score": 0.888,
     "different_name": "Queen - The Game (1980)",
     "different_file": "data/queen_1980_the_game.jpg",
-    "different_score": 0.55
+    "different_score": 0.55,
+    "tracks": [
+      "Before the Album",
+      "Versatile",
+      "Senseless"
+    ]
   },
   {
     "label": "Kodak Black - Haitian Boy Kodak (2021)",
@@ -447,7 +667,12 @@
     "similar_score": 0.868,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.582
+    "different_score": 0.582,
+    "tracks": [
+      "Z Look Jamaican",
+      "Deceitful",
+      "Basement on Fire"
+    ]
   },
   {
     "label": "Kodak Black - Back For Everything (2022)",
@@ -457,7 +682,12 @@
     "similar_score": 0.802,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.481
+    "different_score": 0.481,
+    "tracks": [
+      "Super Gremlin",
+      "Usain Boo",
+      "Grinding All Season"
+    ]
   },
   {
     "label": "Kodak Black - Kutthroat Bill Vol 1 (2022)",
@@ -467,7 +697,12 @@
     "similar_score": 0.759,
     "different_name": "Taylor Swift - 1989 (2014)",
     "different_file": "data/taylor_swift_2014_1989.jpg",
-    "different_score": 0.374
+    "different_score": 0.374,
+    "tracks": [
+      "Walk",
+      "Spin",
+      "Bad Man"
+    ]
   },
   {
     "label": "Kodak Black - Pistolz Pearlz (2023)",
@@ -477,7 +712,12 @@
     "similar_score": 0.859,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.534
+    "different_score": 0.534,
+    "tracks": [
+      "Gunsmoke Town",
+      "Church on Sunday",
+      "Dirt McGirk"
+    ]
   },
   {
     "label": "Kodak Black - When I Was Dead (2023)",
@@ -487,7 +727,12 @@
     "similar_score": 0.793,
     "different_name": "BTS - Youth (2016)",
     "different_file": "data/bts_2016_youth.jpg",
-    "different_score": 0.543
+    "different_score": 0.543,
+    "tracks": [
+      "Lemme See",
+      "2018",
+      "Hard Life"
+    ]
   },
   {
     "label": "Kodak Black - Dieuson Octave (2024)",
@@ -497,7 +742,12 @@
     "similar_score": 0.875,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.517
+    "different_score": 0.517,
+    "tracks": [
+      "Dieuson",
+      "Octave Flow",
+      "Glock 9"
+    ]
   },
   {
     "label": "Kodak Black - Gift For The Streets (2024)",
@@ -507,7 +757,12 @@
     "similar_score": 0.893,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.42
+    "different_score": 0.42,
+    "tracks": [
+      "Street Gift",
+      "Blessings",
+      "Vulture"
+    ]
   },
   {
     "label": "Kodak Black - Trill Bill (2024)",
@@ -517,7 +772,12 @@
     "similar_score": 0.867,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.55
+    "different_score": 0.55,
+    "tracks": [
+      "Trill Bill",
+      "No Limits",
+      "Real One"
+    ]
   },
   {
     "label": "Kodak Black - Vulture Love Presents The Last Zombies On Earth (2024)",
@@ -527,7 +787,12 @@
     "similar_score": 0.845,
     "different_name": "Taylor Swift - Red (2012)",
     "different_file": "data/taylor_swift_2012_red.jpg",
-    "different_score": 0.486
+    "different_score": 0.486,
+    "tracks": [
+      "Zombie Walk",
+      "Vulture Anthem",
+      "Survivor"
+    ]
   },
   {
     "label": "Kodak Black - Just Getting Started (2025)",
@@ -537,7 +802,12 @@
     "similar_score": 0.845,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.481
+    "different_score": 0.481,
+    "tracks": [
+      "Started",
+      "Fresh Air",
+      "New Chapter"
+    ]
   },
   {
     "label": "Kodak Black - Kodak The Blessing (2026)",
@@ -547,7 +817,12 @@
     "similar_score": 0.799,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.538
+    "different_score": 0.538,
+    "tracks": [
+      "The Blessing",
+      "Grace",
+      "Thankful"
+    ]
   },
   {
     "label": "Queen - Queen (1973)",
@@ -557,7 +832,12 @@
     "similar_score": 0.773,
     "different_name": "Queen - The Game (1980)",
     "different_file": "data/queen_1980_the_game.jpg",
-    "different_score": 0.506
+    "different_score": 0.506,
+    "tracks": [
+      "Keep Yourself Alive",
+      "Liar",
+      "Great King Rat"
+    ]
   },
   {
     "label": "Queen - Queen Ii (1974)",
@@ -567,7 +847,12 @@
     "similar_score": 0.736,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.467
+    "different_score": 0.467,
+    "tracks": [
+      "Seven Seas of Rhye",
+      "The March of the Black Queen",
+      "White Queen"
+    ]
   },
   {
     "label": "Queen - Sheer Heart Attack (1974)",
@@ -577,7 +862,12 @@
     "similar_score": 0.767,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.51
+    "different_score": 0.51,
+    "tracks": [
+      "Killer Queen",
+      "Now I'm Here",
+      "Stone Cold Crazy"
+    ]
   },
   {
     "label": "Queen - A Night At The Opera (1975)",
@@ -587,7 +877,12 @@
     "similar_score": 0.95,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.384
+    "different_score": 0.384,
+    "tracks": [
+      "Bohemian Rhapsody",
+      "You're My Best Friend",
+      "Love of My Life"
+    ]
   },
   {
     "label": "Queen - A Day At The Races (1976)",
@@ -597,7 +892,12 @@
     "similar_score": 0.807,
     "different_name": "Kodak Black - Bill Israel (2020)",
     "different_file": "data/kodak_black_2020_bill_israel.jpg",
-    "different_score": 0.305
+    "different_score": 0.305,
+    "tracks": [
+      "Somebody to Love",
+      "Tie Your Mother Down",
+      "Good Old-Fashioned Lover Boy"
+    ]
   },
   {
     "label": "Queen - News Of The World (1977)",
@@ -607,7 +907,12 @@
     "similar_score": 0.877,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.41
+    "different_score": 0.41,
+    "tracks": [
+      "We Will Rock You",
+      "We Are the Champions",
+      "Spread Your Wings"
+    ]
   },
   {
     "label": "Queen - Jazz (1978)",
@@ -617,7 +922,12 @@
     "similar_score": 0.796,
     "different_name": "BTS - Wings (2016)",
     "different_file": "data/bts_2016_wings.jpg",
-    "different_score": 0.52
+    "different_score": 0.52,
+    "tracks": [
+      "Don't Stop Me Now",
+      "Fat Bottomed Girls",
+      "Bicycle Race"
+    ]
   },
   {
     "label": "Queen - Flash Gordon (1980)",
@@ -627,7 +937,12 @@
     "similar_score": 0.826,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.346
+    "different_score": 0.346,
+    "tracks": [
+      "Flash's Theme",
+      "The Hero",
+      "Battle Theme"
+    ]
   },
   {
     "label": "Queen - The Game (1980)",
@@ -637,7 +952,12 @@
     "similar_score": 0.781,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.42
+    "different_score": 0.42,
+    "tracks": [
+      "Another One Bites the Dust",
+      "Crazy Little Thing Called Love",
+      "Save Me"
+    ]
   },
   {
     "label": "Queen - Hot Space (1982)",
@@ -647,7 +967,12 @@
     "similar_score": 0.789,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.483
+    "different_score": 0.483,
+    "tracks": [
+      "Under Pressure",
+      "Body Language",
+      "Back Chat"
+    ]
   },
   {
     "label": "Queen - The Works (1984)",
@@ -657,7 +982,12 @@
     "similar_score": 0.863,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.453
+    "different_score": 0.453,
+    "tracks": [
+      "Radio Ga Ga",
+      "I Want to Break Free",
+      "Hammer to Fall"
+    ]
   },
   {
     "label": "Queen - A Kind Of Magic (1986)",
@@ -667,7 +997,12 @@
     "similar_score": 0.888,
     "different_name": "Queen - The Game (1980)",
     "different_file": "data/queen_1980_the_game.jpg",
-    "different_score": 0.524
+    "different_score": 0.524,
+    "tracks": [
+      "A Kind of Magic",
+      "One Vision",
+      "Friends Will Be Friends"
+    ]
   },
   {
     "label": "Queen - The Miracle (1989)",
@@ -677,7 +1012,12 @@
     "similar_score": 0.826,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.444
+    "different_score": 0.444,
+    "tracks": [
+      "I Want It All",
+      "The Miracle",
+      "Breakthru"
+    ]
   },
   {
     "label": "Queen - Innuendo (1991)",
@@ -687,7 +1027,12 @@
     "similar_score": 0.912,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.325
+    "different_score": 0.325,
+    "tracks": [
+      "The Show Must Go On",
+      "Innuendo",
+      "These Are the Days of Our Lives"
+    ]
   },
   {
     "label": "Queen - Made In Heaven (1995)",
@@ -697,7 +1042,12 @@
     "similar_score": 0.789,
     "different_name": "Taylor Swift - Fearless Taylor S Version (2021)",
     "different_file": "data/taylor_swift_2021_fearless_taylor_s_version.jpg",
-    "different_score": 0.5
+    "different_score": 0.5,
+    "tracks": [
+      "Made in Heaven",
+      "Too Much Love Will Kill You",
+      "Heaven for Everyone"
+    ]
   },
   {
     "label": "Taylor Swift - Taylor Swift Demo (2003)",
@@ -707,7 +1057,12 @@
     "similar_score": 0.914,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.382
+    "different_score": 0.382,
+    "tracks": [
+      "Tim McGraw (Demo)",
+      "Teardrops on My Guitar (Demo)",
+      "Our Song (Demo)"
+    ]
   },
   {
     "label": "Taylor Swift - Volume Two (2003)",
@@ -717,7 +1072,12 @@
     "similar_score": 0.862,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.448
+    "different_score": 0.448,
+    "tracks": [
+      "I'd Lie",
+      "Permanent Marker",
+      "Dark Blue Tennessee"
+    ]
   },
   {
     "label": "Taylor Swift - Taylor Swift (2006)",
@@ -727,7 +1087,12 @@
     "similar_score": 0.893,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.434
+    "different_score": 0.434,
+    "tracks": [
+      "Tim McGraw",
+      "Teardrops on My Guitar",
+      "Our Song"
+    ]
   },
   {
     "label": "Taylor Swift - Fearless (2008)",
@@ -737,7 +1102,12 @@
     "similar_score": 0.912,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.359
+    "different_score": 0.359,
+    "tracks": [
+      "Love Story",
+      "You Belong With Me",
+      "White Horse"
+    ]
   },
   {
     "label": "Taylor Swift - Speak Now (2010)",
@@ -747,7 +1117,12 @@
     "similar_score": 0.878,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.379
+    "different_score": 0.379,
+    "tracks": [
+      "Mine",
+      "Back to December",
+      "Mean"
+    ]
   },
   {
     "label": "Taylor Swift - Red (2012)",
@@ -757,7 +1132,12 @@
     "similar_score": 0.84,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.364
+    "different_score": 0.364,
+    "tracks": [
+      "All Too Well",
+      "We Are Never Getting Back Together",
+      "I Knew You Were Trouble"
+    ]
   },
   {
     "label": "Taylor Swift - 1989 (2014)",
@@ -767,7 +1147,12 @@
     "similar_score": 0.885,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.322
+    "different_score": 0.322,
+    "tracks": [
+      "Blank Space",
+      "Shake It Off",
+      "Style"
+    ]
   },
   {
     "label": "Taylor Swift - The Taylor Swift Megamix (2015)",
@@ -777,7 +1162,12 @@
     "similar_score": 0.886,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.399
+    "different_score": 0.399,
+    "tracks": [
+      "Megamix 1989",
+      "Country Pop Medley",
+      "Summer Remix"
+    ]
   },
   {
     "label": "Taylor Swift - Reputation (2017)",
@@ -787,7 +1177,12 @@
     "similar_score": 0.887,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.404
+    "different_score": 0.404,
+    "tracks": [
+      "Look What You Made Me Do",
+      "Delicate",
+      "Getaway Car"
+    ]
   },
   {
     "label": "Taylor Swift - Lover (2019)",
@@ -797,7 +1192,12 @@
     "similar_score": 0.912,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.369
+    "different_score": 0.369,
+    "tracks": [
+      "Cruel Summer",
+      "Lover",
+      "ME!"
+    ]
   },
   {
     "label": "Taylor Swift - Evermore (2020)",
@@ -807,7 +1207,12 @@
     "similar_score": 0.893,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.484
+    "different_score": 0.484,
+    "tracks": [
+      "Willow",
+      "Champagne Problems",
+      "Gold Rush"
+    ]
   },
   {
     "label": "Taylor Swift - Folklore (2020)",
@@ -817,7 +1222,12 @@
     "similar_score": 0.882,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.398
+    "different_score": 0.398,
+    "tracks": [
+      "Cardigan",
+      "Exile",
+      "The 1"
+    ]
   },
   {
     "label": "Taylor Swift - Fearless Taylor S Version (2021)",
@@ -827,7 +1237,12 @@
     "similar_score": 0.86,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.333
+    "different_score": 0.333,
+    "tracks": [
+      "Love Story (TV)",
+      "Mr. Perfectly Fine",
+      "You Belong With Me (TV)"
+    ]
   },
   {
     "label": "Taylor Swift - Red Taylor S Version (2021)",
@@ -837,7 +1252,12 @@
     "similar_score": 0.855,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.418
+    "different_score": 0.418,
+    "tracks": [
+      "All Too Well (10 Min)",
+      "Red (TV)",
+      "I Bet You Think About Me"
+    ]
   },
   {
     "label": "Taylor Swift - The Vault Deluxe (2021)",
@@ -847,7 +1267,12 @@
     "similar_score": 0.882,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.392
+    "different_score": 0.392,
+    "tracks": [
+      "Nothing New",
+      "Message in a Bottle",
+      "Babe"
+    ]
   },
   {
     "label": "Taylor Swift - Midnights (2022)",
@@ -857,7 +1282,12 @@
     "similar_score": 0.873,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.386
+    "different_score": 0.386,
+    "tracks": [
+      "Anti-Hero",
+      "Lavender Haze",
+      "Karma"
+    ]
   },
   {
     "label": "Taylor Swift - 1989 Taylor S Version (2023)",
@@ -867,7 +1297,12 @@
     "similar_score": 0.885,
     "different_name": "BTS - Map Of The Soul 7 The Journey (2020)",
     "different_file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
-    "different_score": 0.329
+    "different_score": 0.329,
+    "tracks": [
+      "Style (TV)",
+      "Blank Space (TV)",
+      "Is It Over Now?"
+    ]
   },
   {
     "label": "Taylor Swift - Speak Now Taylor S Version (2023)",
@@ -877,7 +1312,12 @@
     "similar_score": 0.832,
     "different_name": "BTS - Be (2020)",
     "different_file": "data/bts_2020_be.jpg",
-    "different_score": 0.509
+    "different_score": 0.509,
+    "tracks": [
+      "Mine (TV)",
+      "Enchanted (TV)",
+      "I Can See You"
+    ]
   },
   {
     "label": "Taylor Swift - The Tortured Poets Department (2024)",
@@ -887,7 +1327,12 @@
     "similar_score": 0.919,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.354
+    "different_score": 0.354,
+    "tracks": [
+      "Fortnight",
+      "I Can Do It With a Broken Heart",
+      "Down Bad"
+    ]
   },
   {
     "label": "Taylor Swift - The Life Of A Showgirl (2025)",
@@ -897,6 +1342,11 @@
     "similar_score": 0.88,
     "different_name": "Queen - A Day At The Races (1976)",
     "different_file": "data/queen_1976_a_day_at_the_races.jpg",
-    "different_score": 0.502
+    "different_score": 0.502,
+    "tracks": [
+      "The Spotlight",
+      "Showgirl",
+      "Curtain Call"
+    ]
   }
 ]

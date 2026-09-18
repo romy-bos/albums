@@ -1,0 +1,50 @@
+region,state_name,top_artist,top_track,popularity_score
+new jersey,New Jersey,Bruce Springsteen,Born to Run,89
+new york,New York,Bruce Springsteen,Thunder Road,74
+pennsylvania,Pennsylvania,Bruce Springsteen,Atlantic City,78
+massachusetts,Massachusetts,Bruce Springsteen,Badlands,76
+connecticut,Connecticut,Bruce Springsteen,Born to Run,72
+rhode island,Rhode Island,Bruce Springsteen,Glory Days,71
+maine,Maine,Bruce Springsteen,The River,69
+new hampshire,New Hampshire,Bruce Springsteen,Badlands,70
+vermont,Vermont,Bruce Springsteen,Atlantic City,68
+delaware,Delaware,Bruce Springsteen,Dancing in the Dark,73
+district of columbia,District Of Columbia,Bruce Springsteen,Born in the U.S.A.,77
+florida,Florida,Kodak Black,Super Gremlin,95
+georgia,Georgia,Kodak Black,Tunnel Vision,86
+alabama,Alabama,Kodak Black,No Flockin,84
+mississippi,Mississippi,Kodak Black,Roll in Peace,85
+louisiana,Louisiana,Kodak Black,Super Gremlin,88
+south carolina,South Carolina,Kodak Black,ZEZE,82
+california,California,BTS,Dynamite,93
+washington,Washington,BTS,Butter,87
+oregon,Oregon,BTS,Life Goes On,83
+nevada,Nevada,BTS,Dynamite,81
+illinois,Illinois,BTS,Boy With Luv,79
+maryland,Maryland,BTS,Mic Drop,75
+ohio,Ohio,Queen,Bohemian Rhapsody,86
+michigan,Michigan,Queen,Don't Stop Me Now,84
+wisconsin,Wisconsin,Queen,We Will Rock You,85
+indiana,Indiana,Queen,Another One Bites the Dust,82
+missouri,Missouri,Queen,Somebody to Love,80
+colorado,Colorado,Queen,Under Pressure,83
+minnesota,Minnesota,Queen,Killer Queen,79
+iowa,Iowa,Queen,Radio Ga Ga,78
+tennessee,Tennessee,Taylor Swift,Love Story,98
+texas,Texas,Taylor Swift,Cruel Summer,92
+north carolina,North Carolina,Taylor Swift,Anti-Hero,88
+virginia,Virginia,Taylor Swift,Blank Space,85
+kentucky,Kentucky,Taylor Swift,You Belong With Me,87
+kansas,Kansas,Taylor Swift,Cardigan,84
+nebraska,Nebraska,Taylor Swift,Shake It Off,83
+oklahoma,Oklahoma,Taylor Swift,Our Song,86
+arkansas,Arkansas,Taylor Swift,Tim McGraw,85
+arizona,Arizona,Taylor Swift,Cruel Summer,82
+utah,Utah,Taylor Swift,All Too Well,89
+idaho,Idaho,Taylor Swift,Willow,81
+montana,Montana,Taylor Swift,Folklore,80
+wyoming,Wyoming,Taylor Swift,Evermore,79
+north dakota,North Dakota,Taylor Swift,Teardrops on My Guitar,77
+south dakota,South Dakota,Taylor Swift,Fearless,78
+new mexico,New Mexico,Taylor Swift,Style,80
+west virginia,West Virginia,Taylor Swift,Mean,82
