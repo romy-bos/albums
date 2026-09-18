@@ -1,1 +1,37 @@
-/* css styles */
+/* Modern ambient background and card container */
+body {
+  background-color: #f8fafc;
+  background-image: 
+    radial-gradient(at 10% 10%, rgba(99, 102, 241, 0.12) 0px, transparent 50%),
+    radial-gradient(at 90% 10%, rgba(236, 72, 153, 0.10) 0px, transparent 50%),
+    radial-gradient(at 50% 90%, rgba(34, 197, 94, 0.08) 0px, transparent 50%);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+/* Card container for the tab content */
+.tab-content {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(226, 232, 240, 0.8);
+  margin-top: 1rem;
+}
+
+/* Polished tabs */
+.nav-tabs .nav-link {
+  font-weight: 500;
+  color: #64748b;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 0.6rem 1.2rem;
+}
+
+.nav-tabs .nav-link.active {
+  color: #0f172a;
+  font-weight: 600;
+  border-bottom: 2px solid #6366f1;
+  background: transparent;
+}
+
